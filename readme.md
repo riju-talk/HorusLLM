@@ -35,14 +35,6 @@ At present, our primary experimental effort is benchmarking the hallucination ab
 2. Explore the notebooks and scripts in each subdirectory for detailed experiment descriptions and results.
 3. Refer to the comments and documentation within each notebook for guidance on reproducing experiments.
 
-## Contributing
-
-Contributions are welcome! Please open issues or pull requests for new experiments, bug fixes, or suggestions.
-
-## License
-
-This repository is for research and educational purposes. See the LICENSE file for details.
-
 ---
 
 *HorusLLM: Advancing safe, robust, and reliable language models through systematic experimentation.*
