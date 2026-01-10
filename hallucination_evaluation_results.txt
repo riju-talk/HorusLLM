@@ -1,0 +1,56 @@
+================================================================================
+HALLUCINATION EVALUATION RESULTS
+Generated: 2026-01-11 00:28:42
+================================================================================
+
+================================================================================
+MODEL: QWEN2.5
+================================================================================
+
+RESPONSE-LEVEL HALLUCINATION RATE:
+  Total responses           : 1500
+  Hallucinated responses    : 1122
+  Response-level rate       : 0.7480 (74.80%)
+
+CLAIM-LEVEL HALLUCINATION RATE:
+  Total claims              : 1500
+  Hallucinated claims       : 1122
+  Claim-level rate          : 0.7480 (74.80%)
+
+================================================================================
+MODEL: QWEN3
+================================================================================
+
+RESPONSE-LEVEL HALLUCINATION RATE:
+  Total responses           : 1500
+  Hallucinated responses    : 912
+  Response-level rate       : 0.6080 (60.80%)
+
+CLAIM-LEVEL HALLUCINATION RATE:
+  Total claims              : 1500
+  Hallucinated claims       : 912
+  Claim-level rate          : 0.6080 (60.80%)
+
+================================================================================
+MODEL: GEMMA2
+================================================================================
+
+RESPONSE-LEVEL HALLUCINATION RATE:
+  Total responses           : 1500
+  Hallucinated responses    : 1048
+  Response-level rate       : 0.6987 (69.87%)
+
+CLAIM-LEVEL HALLUCINATION RATE:
+  Total claims              : 1500
+  Hallucinated claims       : 1048
+  Claim-level rate          : 0.6987 (69.87%)
+
+================================================================================
+SUMMARY COMPARISON
+================================================================================
+
+Model           Response-Level Rate       Claim-Level Rate         
+--------------- ------------------------- -------------------------
+qwen2.5         0.7480 (74.80%)         0.7480 (74.80%)
+qwen3           0.6080 (60.80%)         0.6080 (60.80%)
+gemma2          0.6987 (69.87%)         0.6987 (69.87%)
