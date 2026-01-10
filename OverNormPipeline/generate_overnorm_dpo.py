@@ -1,16 +1,3 @@
-"""
-Over-Normalization DPO Dataset Generator
-
-This script generates a DPO (Direct Preference Optimization) dataset based on 
-Hofstede's cultural dimensions to combat over-normalization in LLMs.
-
-Over-normalization = False equality asserted in defiance of evidence
-
-The dataset pairs:
-- Preferred (accepted): Evidence-sensitive, decisive answers
-- Rejected: Over-normalized responses that ignore statistical evidence
-"""
-
 import pandas as pd
 import json
 import random
